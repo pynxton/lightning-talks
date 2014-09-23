@@ -25,5 +25,4 @@ And a wide range of IPython notebooks:
 https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
 Julia
-
 http://julialang.org
