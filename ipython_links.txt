@@ -1,0 +1,29 @@
+If you would like to set up a full IPython environment under your home
+directory in Unix, or on your Windows or Mac machine the easiest way is
+using Anaconda. Downloads and installation instructions are available here
+- https://store.continuum.io/cshop/anaconda/
+
+Here are the links I mentioned:
+
+http://ipython.org/
+http://jupyter.org/
+https://github.com/jupyter
+https://github.com/biojupyter
+https://github.com/biokit
+https://github.com/BioJulia
+
+http://nbviewer.ipython.org/urls/gist.githubusercontent.com/jakevdp/289be7d8c6e3a1248921/raw/0f265de9999efbe8c7ab9efe302dba0320b5ae8c/d3widget.ipynb
+
+
+mathbox2:
+http://acko.net/files/pres/siggraph-2014-bof/online.html
+
+Background blog post:
+http://cyrille.rossant.net/scientific-python-in-the-browser-its-coming/
+
+And a wide range of IPython notebooks:
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+
+Julia
+
+http://julialang.org
