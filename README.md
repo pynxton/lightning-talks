@@ -1,9 +1,7 @@
 lightning-talks
 ===============
 
-Slides and background material for lightning talks
-
-For lightning talks, please use this convention as much as possible
+Slides and background material for lightning talks. Please use this convention as much as possible
 
     <year>_<month>_<name>_<subject>.<extension>
 
