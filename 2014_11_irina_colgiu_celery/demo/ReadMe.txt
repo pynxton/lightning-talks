@@ -1,4 +1,6 @@
 This example shows briefly the functionality of celery using RabbitMQ as message broker.
+The functionality consists of defining 2 tasks: "add" and "print_fct" and calling "add" task with different parameters (consecutive numbers between 1 and 10). The result of the "add" task is being sent to the next task chained with it - called "print_fct", so "print_fct" receives as argument the result of the "add" task and displays it.
+
 In order to run it, you need to start one or more worker processes with:
 
 	celery worker -A celery_exp
